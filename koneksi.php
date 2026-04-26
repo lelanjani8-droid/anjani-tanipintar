@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "if0_41757137";
 $pass = "L4el4c4nt1k";
-$db   = "db_tani_pintar";
+$db   = "if0_41757137_XXX";
 
 $koneksi = mysqli_connect($host, $user, $pass, $db);
 
